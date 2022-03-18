@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Javascript and ReactJS  
   
 
-- ❓ Contact me via: <a href="https://linkedin.com/in/https://www.linkedin.com/in/piotr-paj%c4%85k-70816220b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piotr-paj%c4%85k-70816220b/" height="15" width="15" /></a>
+- ❓ Contact me via: <a href="https://www.linkedin.com/in/piotr-pajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piotr-paj%c4%85k-70816220b/" height="15" width="15" /></a>
   
 
 <br/>  
