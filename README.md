@@ -1,4 +1,4 @@
-### <div align="center">I'm Piotr - junior web developer  🚀</div>  
+### <div align="center">I'm Piotr - Future Web Developer  🚀</div>  
   
 
 - 🔭 I’m currently working on stronki-piotr.pl | Lighthouse 800 points :)
