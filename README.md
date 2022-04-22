@@ -1,13 +1,13 @@
 ### <div align="center">I'm Piotr - junior web developer  🚀</div>  
   
 
-- 🔭 I’m currently working on stronki-piotr.pl  
+- 🔭 I’m currently working on stronki-piotr.pl | Lighthouse 800 points :)
   
 
-- 🌱 I’m currently learning Javascript and ReactJS  
+- 🌱 I’m currently learning ReactJS  
   
 
-- ❓ Contact me via: <a href="https://www.linkedin.com/in/piotr-pajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piotr-paj%c4%85k-70816220b/" height="15" width="15" /></a>
+- ❓ Contact me via: <a href="https://www.linkedin.com/in/piotr-pajak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piotr-paj%c4%85k-70816220b/" height="10" width="10" /></a>
   
 
 <br/>  
