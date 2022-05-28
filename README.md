@@ -14,7 +14,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 > ## ❓ *Contact me via:*
-  <a href="[https://t.me/piotrpajak](https://www.stronki-piotr.pl/)" target="_blank"><img align="center" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.stronki-piotr.pl/" target="_blank"><img align="center" alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/piotr-pajak/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/piotrpajak" target="_blank"><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
    
